@@ -1,0 +1,8 @@
+﻿  HelloWindowsDesktop.cpp
+C:\Users\Viacheslav\Documents\GitHubRepositories\VSCODE\С++\DesktopApp\HelloWindowsDesktop.cpp(169,17): warning C4101: rgb2: неиспользованная локальная переменная
+C:\Users\Viacheslav\Documents\GitHubRepositories\VSCODE\С++\DesktopApp\HelloWindowsDesktop.cpp(168,17): warning C4101: rgb1: неиспользованная локальная переменная
+C:\Users\Viacheslav\Documents\GitHubRepositories\VSCODE\С++\DesktopApp\HelloWindowsDesktop.cpp(170,17): warning C4101: rgb3: неиспользованная локальная переменная
+C:\Users\Viacheslav\Documents\GitHubRepositories\VSCODE\С++\DesktopApp\HelloWindowsDesktop.cpp(167,17): warning C4101: h: неиспользованная локальная переменная
+C:\Users\Viacheslav\Documents\GitHubRepositories\VSCODE\С++\DesktopApp\HelloWindowsDesktop.cpp(166,17): warning C4101: w: неиспользованная локальная переменная
+C:\Users\Viacheslav\Documents\GitHubRepositories\VSCODE\С++\DesktopApp\HelloWindowsDesktop.cpp(172,17): warning C4101: inner: неиспользованная локальная переменная
+  DesktopApp.vcxproj -> C:\Users\Viacheslav\Documents\GitHubRepositories\VSCODE\С++\DesktopApp\x64\Debug\DesktopApp.exe
